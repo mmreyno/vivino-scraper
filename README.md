@@ -1,4 +1,4 @@
 # vivino-scraper
 
 For more information, see the following
-LINK
+http://mmreynolds.com/top-wineries-in-alsace/
